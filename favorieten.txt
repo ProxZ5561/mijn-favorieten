@@ -1,3 +1,9 @@
+<<<<<<< .merge_file_tzHPB3
 Snickers
 Doritos
 M&M4's
+=======
+Transformers Franchise
+John Wick
+No Country for Old Men
+>>>>>>> .merge_file_3raJY6
